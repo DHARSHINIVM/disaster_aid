@@ -1,0 +1,5 @@
+flask
+requests
+supabase
+web3
+python-dotenv
